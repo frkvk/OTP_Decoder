@@ -34,3 +34,5 @@ protoc --python_out=. --proto_path="Project folder path" migration.proto
 
 Replace "qr_code_data_url" with your export variable. It is advisable not to export more than 3 QR codes from Google Authenticator at once.
 You will receive the data in the console.
+
+# Credits to https://gist.github.com/mapster/4b8b9f8f6b92cc1ca58ae5506e0508f7
